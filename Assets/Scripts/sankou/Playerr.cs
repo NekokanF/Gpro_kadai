@@ -3,7 +3,7 @@ using UnityEngine.InputSystem;
 using R3;               // R3 core
 using R3.Triggers;
 
-public class Player : MonoBehaviour
+public class Playerr : MonoBehaviour
 {
     [SerializeField] float speed;
     [SerializeField] float jumpSpeed;
